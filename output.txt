@@ -1,0 +1,53 @@
+Virginia Tech Airport 
+Temperature: 21.8 
+latitude: 37.22 
+Longitude: -80.42 
+Date and Time: 2018-05-29 23:15:00 
+Humidity level: 92 
+Cloud cover: scattered clouds
+
+Aquadilla, Rafael Hernandez Airport 
+Temperature: 26 
+latitude: 18.5 
+Longitude: -67.13 
+Date and Time: 2018-05-29 22:50:00 
+Humidity level: 78 
+Cloud cover: overcast
+
+
+no observation found
+
+
+no observation found
+
+
+no observation found
+
+
+no observation found
+
+
+no observation found
+
+
+no observation found
+
+Ponce, Mercedita Airport 
+Temperature: 23 
+latitude: 18.02 
+Longitude: -66.57 
+Date and Time: 2018-05-29 03:50:00 
+Humidity level: 100 
+Cloud cover: few clouds
+
+San Juan, Luis Munoz Marin International Airport 
+Temperature: 27.8 
+latitude: 18.43 
+Longitude: -66.02 
+Date and Time: 2018-05-29 22:56:00 
+Humidity level: 74 
+Cloud cover: few clouds
+
+Min Temp: 21.8
+Max Temp: 27.8
+Average Temp: 12.4
